@@ -2,8 +2,8 @@
 frontend 
 
 [app_servers]
-app-01
-app-02
+app1
+app2
 
 [database_servers]
 appdb1
